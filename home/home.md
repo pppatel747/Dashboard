@@ -5,7 +5,7 @@
       <p class="page__lead">Here's a real world example of how to use dashboard, with a background created with Graphics. This is just a simple example of how to get simple dashboard.
       </p>
       <div class="example_wrapper">
-         <script src="home/assets/js/dashboard.js"></script>
+         <script src="/home/assets/js/dashboard.js"></script>
          <link rel="stylesheet" href="assets/css/tabs.css">
          <div class="tabcontent-container size-auto">
             <div data-tab="floorplanner_home-floorplan">
