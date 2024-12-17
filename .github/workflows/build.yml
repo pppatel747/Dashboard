@@ -42,9 +42,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add -f dist/floorplan.js
-        git add -f dist/floorplan-examples.js
-        git add -f docs/_docs/floorplan/floorplan-examples.js
+        git add -f home/assets/js/dashboard.js
 
     - name: Commit changes
       id: can_commit
